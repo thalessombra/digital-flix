@@ -410,7 +410,6 @@ aside.menu-genres {
     width: 100%;
     z-index: 200;
     background-color: $transparent;
-    backdrop-filter: blur(10px);
     top: 7%;
     height: 100vh;
     animation: appearField 1s;
@@ -470,5 +469,5 @@ aside.menu-genres {
     }
 
 
-
 }
+ 
